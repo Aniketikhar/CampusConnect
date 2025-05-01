@@ -1,4 +1,4 @@
-package com.campusconnect
+package com.campusconnects
 
 import com.facebook.react.ReactActivity
 import com.facebook.react.ReactActivityDelegate

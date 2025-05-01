@@ -1,4 +1,4 @@
-package com.campusconnect
+package com.campusconnects
 
 import android.app.Application
 import com.facebook.react.PackageList
